@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://zose-demo.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://zose-demo.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://zose-demo.myshopify.com/blogs/news/tagged/camera.atom"/>
+  <title>ZOSE - News</title>
+  <updated>2023-06-25T00:38:45-04:00</updated>
+  <author>
+    <name>ZOSE</name>
+  </author>
+  <entry>
+    <id>https://zose-demo.myshopify.com/blogs/news/capture-memories-in-phone</id>
+    <published>2023-06-25T00:38:45-04:00</published>
+    <updated>2023-06-25T05:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zose-demo.myshopify.com/blogs/news/capture-memories-in-phone"/>
+    <title>Capture Memories In phone</title>
+    <author>
+      <name>Store Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<blockquote class="importent-title">
+<h4>Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt labo dolor magna aliqua. Ut enim ad minim veniam quis nostrud.</h4>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehendrit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+<div class="dec-img-wrapper">
+<div class="row">
+<div class="col-md-6">
+<div class="dec-img"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/6.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+<div class="col-md-6">
+<div class="dec-img dec-mrg res-mrg-top-2"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/2.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+</div>
+</div>
+<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://zose-demo.myshopify.com/blogs/news/testing-a-camera-switch</id>
+    <published>2023-06-20T12:34:11-04:00</published>
+    <updated>2023-06-25T05:17:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zose-demo.myshopify.com/blogs/news/testing-a-camera-switch"/>
+    <title>Testing a camera switch</title>
+    <author>
+      <name>Store Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<blockquote class="importent-title">
+<h4>Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt labo dolor magna aliqua. Ut enim ad minim veniam quis nostrud.</h4>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehendrit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+<div class="dec-img-wrapper">
+<div class="row">
+<div class="col-md-6">
+<div class="dec-img"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/6.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+<div class="col-md-6">
+<div class="dec-img dec-mrg res-mrg-top-2"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/2.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+</div>
+</div>
+<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<p> </p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://zose-demo.myshopify.com/blogs/news/fixing-a-camera-for-safety</id>
+    <published>2023-06-20T12:33:17-04:00</published>
+    <updated>2023-06-25T05:16:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zose-demo.myshopify.com/blogs/news/fixing-a-camera-for-safety"/>
+    <title>Fixing a camera for safety</title>
+    <author>
+      <name>Store Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<blockquote class="importent-title">
+<h4>Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt labo dolor magna aliqua. Ut enim ad minim veniam quis nostrud.</h4>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehendrit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+<div class="dec-img-wrapper">
+<div class="row">
+<div class="col-md-6">
+<div class="dec-img"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/6.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+<div class="col-md-6">
+<div class="dec-img dec-mrg res-mrg-top-2"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/2.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+</div>
+</div>
+<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<p> </p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://zose-demo.myshopify.com/blogs/news/traffic-security-camera</id>
+    <published>2023-06-20T12:32:20-04:00</published>
+    <updated>2023-06-25T05:17:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zose-demo.myshopify.com/blogs/news/traffic-security-camera"/>
+    <title>Traffic security camera</title>
+    <author>
+      <name>Store Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<blockquote class="importent-title">
+<h4>Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt labo dolor magna aliqua. Ut enim ad minim veniam quis nostrud.</h4>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehendrit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+<div class="dec-img-wrapper">
+<div class="row">
+<div class="col-md-6">
+<div class="dec-img"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/6.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+<div class="col-md-6">
+<div class="dec-img dec-mrg res-mrg-top-2"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/2.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+</div>
+</div>
+<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<p> </p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://zose-demo.myshopify.com/blogs/news/increasing-staff-motivation</id>
+    <published>2023-06-20T12:31:14-04:00</published>
+    <updated>2023-06-25T05:18:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zose-demo.myshopify.com/blogs/news/increasing-staff-motivation"/>
+    <title>Increasing staff motivation</title>
+    <author>
+      <name>Store Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<blockquote class="importent-title">
+<h4>Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt labo dolor magna aliqua. Ut enim ad minim veniam quis nostrud.</h4>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehendrit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+<div class="dec-img-wrapper">
+<div class="row">
+<div class="col-md-6">
+<div class="dec-img"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/6.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+<div class="col-md-6">
+<div class="dec-img dec-mrg res-mrg-top-2"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/2.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+</div>
+</div>
+<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<p> </p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://zose-demo.myshopify.com/blogs/news/bullet-type-security-camera</id>
+    <published>2023-06-20T12:26:58-04:00</published>
+    <updated>2023-06-25T05:18:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zose-demo.myshopify.com/blogs/news/bullet-type-security-camera"/>
+    <title>Bullet type security camera</title>
+    <author>
+      <name>Store Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<blockquote class="importent-title">
+<h4>Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt labo dolor magna aliqua. Ut enim ad minim veniam quis nostrud.</h4>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehendrit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+<div class="dec-img-wrapper">
+<div class="row">
+<div class="col-md-6">
+<div class="dec-img"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/6.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+<div class="col-md-6">
+<div class="dec-img dec-mrg res-mrg-top-2"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/2.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+</div>
+</div>
+<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://zose-demo.myshopify.com/blogs/news/cellular-communication-company</id>
+    <published>2023-05-29T05:02:34-04:00</published>
+    <updated>2023-06-25T05:18:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zose-demo.myshopify.com/blogs/news/cellular-communication-company"/>
+    <title>IP-camera for streets</title>
+    <author>
+      <name>Store Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<blockquote class="importent-title">
+<h4>Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt labo dolor magna aliqua. Ut enim ad minim veniam quis nostrud.</h4>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehendrit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+<div class="dec-img-wrapper">
+<div class="row">
+<div class="col-md-6">
+<div class="dec-img"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/6.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+<div class="col-md-6">
+<div class="dec-img dec-mrg res-mrg-top-2"><img src="https://cdn.shopify.com/s/files/1/0253/4506/5035/files/2.jpg?v=1687277905" alt="blog-description-image"></div>
+</div>
+</div>
+</div>
+<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ull laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhen voluptate velit esse cillum dolore eu fugiat to nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est to laborum sed ut perspiciatis.</p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>
